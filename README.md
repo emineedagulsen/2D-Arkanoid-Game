@@ -7,11 +7,12 @@
 If you look at the first picture,you can see the menu of the game.The menu contains 6 functional buttons .
 
 
-![arkanoidhelp](https://user-images.githubusercontent.com/101573509/158522798-9656926f-339e-419f-94f7-b91a73a18ae3.PNG)
+![arkanoid2](https://user-images.githubusercontent.com/101573509/158522786-566be6c5-cf5f-4ed9-ac14-88097c80163b.PNG)
 
 If you click about button which is located at menu,you can see some informations about developer.If you click exit button in this page you can return to the menu page.
 
-![arkanoid2](https://user-images.githubusercontent.com/101573509/158522786-566be6c5-cf5f-4ed9-ac14-88097c80163b.PNG)
+
+![arkanoidhelp](https://user-images.githubusercontent.com/101573509/158522798-9656926f-339e-419f-94f7-b91a73a18ae3.PNG)
 
 If you click help button which is located at menu ,you can see some informations about game and it is explained in case of you click buttons on menu what you can expect.If you click exit button in this page you can return to the menu page.
 
