@@ -61,7 +61,7 @@ However,as I mentioned before if your lives are done and you don't achieve to co
 
 ![name](https://user-images.githubusercontent.com/101573509/158546659-0ef30e77-d979-4960-886d-a5bb24ff42e1.PNG)
 
-After the game finished,the game ask to you enter your name to record your score.
+After the game finished,the game ask  you to  enter your name to record your score.
 
 
 
