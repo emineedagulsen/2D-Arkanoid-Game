@@ -20,7 +20,7 @@ If you click help button which is located at menu ,you can see some informations
 
 ![optionsarkon](https://user-images.githubusercontent.com/101573509/158522805-1318828b-96c2-435e-84b3-52d87e6abf27.PNG)
 
-If you click option button which is located at menu,you can see also buttons for levels.You can choose diffucilty of game by click button in terms of numbers that written on them.If you click exit button in this page you can return to the menu page.
+If you click option button which is located at menu,you can see also buttons for levels.You can choose difficulty of game by click button in terms of numbers that written on them.If you click exit button in this page you can return to the menu page.
 
 
 ![level1](https://user-images.githubusercontent.com/101573509/158522809-640651e3-59a7-4b55-bd09-203d0dace27a.PNG)
@@ -32,7 +32,7 @@ If you click new game button which is located at menu ,you can play the game dir
 ![arkonlevel2](https://user-images.githubusercontent.com/101573509/158522816-a1546ea2-5e69-4792-ab4c-b20e46d2a578.PNG)
 
 
-As you can see in this picture,as they increase the level of game ,the diffuculty also increase.
+As you can see in this picture,as they increase the level of game ,the difficulty also increase.
 
 
 
